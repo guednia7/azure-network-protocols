@@ -23,4 +23,5 @@ In this tutorial, we observe network traffic to and from Azure Virtual Machines 
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
 
+![image](https://github.com/guednia7/azure-network-protocols/assets/173207211/09effa18-aef2-43ed-9b3d-e82602f4b704)
 
